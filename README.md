@@ -32,4 +32,3 @@ In C Datagram Socktets, internet Sockets, Stream Sockets and UNIX domain Sockets
 
 ---
 
-Best Regards - [Mehar Ehsaan](https://github.com/meharehsaan)
